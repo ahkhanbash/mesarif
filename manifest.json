@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "dir": "rtl",
+  "display": "standalone",
+  "name": "مصاريف",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "مصاريف",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "com.mesarif.app",
+  "description": "تطبيق لإدارة العهد والمصاريف وأجور العمال",
+  "lang": "ar"
+}
